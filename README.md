@@ -21,3 +21,7 @@
 ## [Reminders API](https://github.com/hackerrank-test/hackerrank-nodejs-reminders-api)
 
 ## [Authorization Middleware](https://github.com/hackerrank-test/hackerrank-nodejs-authorization-middleware)
+
+🙏 [Buy me a coffe](https://github.com/hackerrank-test/buymeacoffee)
+
+Need a solution? Don't hesitate to mail to: [hackerranktest@outlook.com](mailto:hackerranktest@outlook.com)
