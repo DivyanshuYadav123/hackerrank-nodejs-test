@@ -4,23 +4,23 @@
 
 ## [Express Recipes Pagination](https://github.com/hackerrank-test/hackerrank-nodejs-recipes-pagination)
 
-## [Express Recipes Filter](https://github.com/hackerrank-test/hackerrank-nodejs-recipes-filter)
+## [Express Recipes Filter](https://github.com/hackerrank-test/hackerrank-nodejs-recipes-filter) (private)
 
-## [Products API Medium](https://github.com/hackerrank-test/hackerrank-nodejs-products-api-medium)
+## [Products API Medium](https://github.com/hackerrank-test/hackerrank-nodejs-products-api-medium) (private)
 
 ## [Express Pagination Middleware](https://github.com/hackerrank-test/hackerrank-nodejs-pagination-middleware)
 
-## [Event Emitter Order Processing](https://github.com/hackerrank-test/hackerrank-nodejs-order-processing)
+## [Event Emitter Order Processing](https://github.com/hackerrank-test/hackerrank-nodejs-order-processing) (private)
 
-## [Express Find Recipe Step](https://github.com/hackerrank-test/hackerrank-nodejs-find-recipe-step)
+## [Express Find Recipe Step](https://github.com/hackerrank-test/hackerrank-nodejs-find-recipe-step) (private)
 
-## [Blog Posts API Medium](https://github.com/hackerrank-test/hackerrank-nodejs-blog-posts-api-medium)
+## [Blog Posts API Medium](https://github.com/hackerrank-test/hackerrank-nodejs-blog-posts-api-medium) (private)
 
-## [Analytics API Medium](https://github.com/hackerrank-test/hackerrank-nodejs-analytics-api-medium)
+## [Analytics API Medium](https://github.com/hackerrank-test/hackerrank-nodejs-analytics-api-medium) (private)
 
-## [Reminders API](https://github.com/hackerrank-test/hackerrank-nodejs-reminders-api)
+## [Reminders API](https://github.com/hackerrank-test/hackerrank-nodejs-reminders-api) (private) (private)
 
-## [Authorization Middleware](https://github.com/hackerrank-test/hackerrank-nodejs-authorization-middleware)
+## [Authorization Middleware](https://github.com/hackerrank-test/hackerrank-nodejs-authorization-middleware) (private)
 
 🙏 [Buy me a coffe](https://github.com/hackerrank-test/buymeacoffee)
 
