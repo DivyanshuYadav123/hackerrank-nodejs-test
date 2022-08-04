@@ -18,7 +18,7 @@
 
 ## [Analytics API Medium](https://github.com/hackerrank-test/hackerrank-nodejs-analytics-api-medium) (private)
 
-## [Reminders API](https://github.com/hackerrank-test/hackerrank-nodejs-reminders-api) (private) (private)
+## [Reminders API](https://github.com/hackerrank-test/hackerrank-nodejs-reminders-api) (private)
 
 ## [Authorization Middleware](https://github.com/hackerrank-test/hackerrank-nodejs-authorization-middleware) (private)
 
