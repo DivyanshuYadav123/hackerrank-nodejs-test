@@ -2,13 +2,13 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-plain-wordmark.svg" title="Nodejs" alt="Nodejs" width="200" height="200"/>
 </div>
 
-## [Express Recipes Pagination](https://github.com/hackerrank-test/hackerrank-nodejs-recipes-pagination)
+## [Reminders API](https://github.com/hackerrank-test/hackerrank-nodejs-reminders-api)
+
+## [Express Pagination Middleware](https://github.com/hackerrank-test/hackerrank-nodejs-pagination-middleware)
 
 ## [Express Recipes Filter](https://github.com/hackerrank-test/hackerrank-nodejs-recipes-filter) (private)
 
 ## [Products API Medium](https://github.com/hackerrank-test/hackerrank-nodejs-products-api-medium) (private)
-
-## [Express Pagination Middleware](https://github.com/hackerrank-test/hackerrank-nodejs-pagination-middleware)
 
 ## [Event Emitter Order Processing](https://github.com/hackerrank-test/hackerrank-nodejs-order-processing) (private)
 
@@ -18,7 +18,7 @@
 
 ## [Analytics API Medium](https://github.com/hackerrank-test/hackerrank-nodejs-analytics-api-medium) (private)
 
-## [Reminders API](https://github.com/hackerrank-test/hackerrank-nodejs-reminders-api) (private)
+## [Express Recipes Pagination](https://github.com/hackerrank-test/hackerrank-nodejs-recipes-pagination) (private)
 
 ## [Authorization Middleware](https://github.com/hackerrank-test/hackerrank-nodejs-authorization-middleware) (private)
 
