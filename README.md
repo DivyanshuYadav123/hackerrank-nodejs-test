@@ -26,6 +26,8 @@
 
 ## [Github Dataset API](https://github.com/hackerrank-test/hackerrank-nodejs-github-dataset-api) (private)
 
+## [Stock Trades API Hard](https://github.com/hackerrank-test/hackerrank-nodejs-stock-trades-api-hard) (private)
+
 🙏 [Buy me a coffe](https://github.com/hackerrank-test/buymeacoffee)
 
 Need a solution? Don't hesitate to mail to: [hackerranktest@outlook.com](mailto:hackerranktest@outlook.com)
