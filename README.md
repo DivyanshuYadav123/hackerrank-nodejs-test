@@ -24,6 +24,8 @@
 
 ## [Analytics Ingestion](https://github.com/hackerrank-test/hackerrank-nodejs-analytics-ingestion) (private)
 
+## [Github Dataset API](https://github.com/hackerrank-test/hackerrank-nodejs-github-dataset-api) (private)
+
 🙏 [Buy me a coffe](https://github.com/hackerrank-test/buymeacoffee)
 
 Need a solution? Don't hesitate to mail to: [hackerranktest@outlook.com](mailto:hackerranktest@outlook.com)
